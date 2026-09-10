@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `ImageValidatingPolicy` for verifyImage Cosign supply-chain rules
   - `PolicyException` (`policies.kyverno.io/v1`) for policy exclusions
 
+## [0.5.1] - 2026-09-10
+### Changed
+- Updated chart dependency version: kyverno-policies 3.9.0 → 3.9.1
+
 ## [0.5.0] - 2026-08-20
 ### Changed
 - Updated chart dependency version: kyverno-policies 3.8.2 → 3.9.0
