@@ -23,3 +23,6 @@ test/
 
 dist/
 licenses.csv
+
+
+adr-0004.md
